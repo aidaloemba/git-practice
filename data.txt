@@ -1,0 +1,3 @@
+Name: Aida
+Age: 25
+Favorite Color: Yellow
